@@ -1,4 +1,4 @@
-# Python scripts in docker environment
+# Python scripts with GDAL in docker environment
 To create your own script, you do a fork of this repository and change the next variable:
 
 ## Init
